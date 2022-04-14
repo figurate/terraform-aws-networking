@@ -1,6 +1,9 @@
 /**
  * # ![AWS](aws-logo.png) VPC Subnets
  *
+ * [![CI](https://github.com/figurate/terraform-aws-vpc-subnets/actions/workflows/main.yml/badge.svg)](https://github.com/figurate/terraform-aws-vpc-subnets/actions/workflows/main.yml)
+ *
+ *
  * Purpose: Blueprint for provisioning subnets.
  *
  * ![AWS VPC Subnets](aws_vpc_subnets.png)
